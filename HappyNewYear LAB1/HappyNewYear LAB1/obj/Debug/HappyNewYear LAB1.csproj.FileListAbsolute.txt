@@ -1,0 +1,11 @@
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\bin\Debug\HappyNewYear LAB1.exe.config
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\bin\Debug\HappyNewYear LAB1.exe
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\bin\Debug\HappyNewYear LAB1.pdb
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.csproj.AssemblyReference.cache
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.csproj.SuggestedBindingRedirects.cache
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear_LAB1.Form1.resources
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear_LAB1.Properties.Resources.resources
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.csproj.GenerateResource.cache
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.csproj.CoreCompileInputs.cache
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.exe
+D:\folder วิชาต่างๆ\IN402105\HappyNewYear-LAB1\HappyNewYear LAB1\HappyNewYear LAB1\obj\Debug\HappyNewYear LAB1.pdb
