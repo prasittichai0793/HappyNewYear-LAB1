@@ -26,16 +26,15 @@ namespace HappyNewYear_LAB1
             Pen myPen2 = new Pen(System.Drawing.Color.LightSalmon, 3);
             Pen myPen3 = new Pen(System.Drawing.Color.Khaki, 3);
             Pen myPen4 = new Pen(System.Drawing.Color.Brown, 3);
-            Pen myPen5 = new Pen(System.Drawing.Color.Blue, 3);
+            Pen myPen5 = new Pen(System.Drawing.Color.DarkBlue, 3);
 
-            Pen myPenRedbold2 = new Pen(System.Drawing.Color.Red, 2);
-            Pen myPenGreenbold4 = new Pen(System.Drawing.Color.Green, 4);
-            Pen myPenGreenbold15 = new Pen(System.Drawing.Color.Green, 15);
-            Pen myPenGreenbold16 = new Pen(System.Drawing.Color.Green, 16);
-            Pen myPenBluebold20 = new Pen(System.Drawing.Color.Blue, 20);
+            Pen myPenRedbold2 = new Pen(System.Drawing.Color.DarkRed, 2);
+            Pen myPenGreenbold4 = new Pen(System.Drawing.Color.DarkGreen, 4);
+            Pen myPenGreenbold15 = new Pen(System.Drawing.Color.DarkGreen, 15);
+            Pen myPenGreenbold16 = new Pen(System.Drawing.Color.DarkGreen, 16);
 
             SolidBrush BrownBrush = new SolidBrush(Color.Brown);
-            SolidBrush BlueBrush = new SolidBrush(Color.Blue);
+            SolidBrush BlueBrush = new SolidBrush(Color.DarkBlue);
             SolidBrush KhakiBrush = new SolidBrush(Color.Khaki);
             SolidBrush SeaGreenBrush = new SolidBrush(Color.SeaGreen);
             SolidBrush LightSalmonBrush = new SolidBrush(Color.LightSalmon);
