@@ -25,8 +25,7 @@ namespace HappyNewYear_LAB1
             Pen myPen1 = new Pen(System.Drawing.Color.Black, 3);
             Pen myPen2 = new Pen(System.Drawing.Color.LightSalmon, 3);
             Pen myPen3 = new Pen(System.Drawing.Color.Khaki, 3);
-            Pen myPen4 = new Pen(System.Drawing.Color.Brown, 3);
-            Pen myPen5 = new Pen(System.Drawing.Color.DarkBlue, 3);
+            Pen myPen4 = new Pen(System.Drawing.Color.DarkBlue, 3);
 
             Pen myPenRedbold2 = new Pen(System.Drawing.Color.DarkRed, 2);
             Pen myPenGreenbold4 = new Pen(System.Drawing.Color.DarkGreen, 4);
@@ -172,18 +171,18 @@ namespace HappyNewYear_LAB1
             // กล่อง 1
             myGraphic.DrawRectangle(myPen1, 100, 180, 120, 120);                // สี่ เหลี่ยม หลัง
             myGraphic.DrawRectangle(myPen1, 80, 200, 120, 120);                 // สี่ เหลี่ยม หน้า
-            myGraphic.DrawLine(myPen5, 100, 183, 219, 183);                     // สี บนกล่อง *
-            myGraphic.DrawLine(myPen5, 95, 185, 214, 185);                      // สี บนกล่อง **
-            myGraphic.DrawLine(myPen5, 95, 188, 214, 188);                      // สี บนกล่อง ***
-            myGraphic.DrawLine(myPen5, 90, 191, 210, 191);                      // สี บนกล่อง ****
-            myGraphic.DrawLine(myPen5, 85, 194, 205, 194);                      // สี บนกล่อง *****
-            myGraphic.DrawLine(myPen5, 85, 197, 205, 197);                      // สี บนกล่อง ******
-            myGraphic.DrawLine(myPen5, 203, 198, 203, 230);                     // สี ข้างกล่อง *
-            myGraphic.DrawLine(myPen5, 206, 195, 206, 230);                     // สี ข้างกล่อง **
-            myGraphic.DrawLine(myPen5, 209, 192, 209, 230);                     // สี ข้างกล่อง ***
-            myGraphic.DrawLine(myPen5, 212, 189, 212, 230);                     // สี ข้างกล่อง ****
-            myGraphic.DrawLine(myPen5, 215, 186, 215, 230);                     // สี ข้างกล่อง *****
-            myGraphic.DrawLine(myPen5, 217, 183, 217, 230);                     // สี ข้างกล่อง ******
+            myGraphic.DrawLine(myPen4, 100, 183, 219, 183);                     // สี บนกล่อง *
+            myGraphic.DrawLine(myPen4, 95, 185, 214, 185);                      // สี บนกล่อง **
+            myGraphic.DrawLine(myPen4, 95, 188, 214, 188);                      // สี บนกล่อง ***
+            myGraphic.DrawLine(myPen4, 90, 191, 210, 191);                      // สี บนกล่อง ****
+            myGraphic.DrawLine(myPen4, 85, 194, 205, 194);                      // สี บนกล่อง *****
+            myGraphic.DrawLine(myPen4, 85, 197, 205, 197);                      // สี บนกล่อง ******
+            myGraphic.DrawLine(myPen4, 203, 198, 203, 230);                     // สี ข้างกล่อง *
+            myGraphic.DrawLine(myPen4, 206, 195, 206, 230);                     // สี ข้างกล่อง **
+            myGraphic.DrawLine(myPen4, 209, 192, 209, 230);                     // สี ข้างกล่อง ***
+            myGraphic.DrawLine(myPen4, 212, 189, 212, 230);                     // สี ข้างกล่อง ****
+            myGraphic.DrawLine(myPen4, 215, 186, 215, 230);                     // สี ข้างกล่อง *****
+            myGraphic.DrawLine(myPen4, 217, 183, 217, 230);                     // สี ข้างกล่อง ******
             myGraphic.FillRectangle(BlueBrush, 82, 202, 117, 117);              // สี หน้ากล่อง
             myGraphic.DrawLine(myPen1, 100, 180, 80, 200);                      // เส้น 1
             myGraphic.DrawLine(myPen1, 160, 180, 140, 200);                     // เส้น 2
@@ -195,10 +194,10 @@ namespace HappyNewYear_LAB1
             // กล่อง 2
             myGraphic.DrawRectangle(myPen1, 170, 230, 80, 80);                  // สี่ เหลี่ยม หลัง
             myGraphic.DrawRectangle(myPen1, 160, 240, 80, 80);                  // สี่ เหลี่ยม หน้า
-            myGraphic.DrawLine(myPen5, 168, 233, 248, 233);                     // สี บนกล่อง *
-            myGraphic.DrawLine(myPen5, 163, 237, 243, 237);                     // สี บนกล่อง **
-            myGraphic.DrawLine(myPen5, 243, 238, 243, 318);                     // สี ข้างกล่อง *
-            myGraphic.DrawLine(myPen5, 247, 232, 247, 312);                     // สี ข้างกล่อง **
+            myGraphic.DrawLine(myPen4, 168, 233, 248, 233);                     // สี บนกล่อง *
+            myGraphic.DrawLine(myPen4, 163, 237, 243, 237);                     // สี บนกล่อง **
+            myGraphic.DrawLine(myPen4, 243, 238, 243, 318);                     // สี ข้างกล่อง *
+            myGraphic.DrawLine(myPen4, 247, 232, 247, 312);                     // สี ข้างกล่อง **
             myGraphic.FillRectangle(BlueBrush, 162, 242, 77, 77);               // สี หน้ากล่อง
             myGraphic.DrawLine(myPen1, 170, 230, 160, 240);                     // เส้น 1
             myGraphic.DrawLine(myPen1, 210, 230, 200, 240);                     // เส้น 2
@@ -261,11 +260,6 @@ namespace HappyNewYear_LAB1
             myGraphic.DrawLine(myPen1, 420, 320, 660, 320);                     // ใต้ต้นล่าง
             myGraphic.FillRectangle(BrownBrush, 520, 322, 40, 40);              // ขาต้น
             myGraphic.DrawRectangle(myPen1, 520, 320, 40, 40);                  // ขอบขาต้น
-        }
-
-        private void Exit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
     }
 }

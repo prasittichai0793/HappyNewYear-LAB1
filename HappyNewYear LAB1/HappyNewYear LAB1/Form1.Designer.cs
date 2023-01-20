@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.Start = new System.Windows.Forms.Button();
-            this.Exit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Start
@@ -37,34 +36,23 @@
             this.Start.BackColor = System.Drawing.Color.Green;
             this.Start.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.Start.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Start.Location = new System.Drawing.Point(12, 480);
+            this.Start.Location = new System.Drawing.Point(9, 390);
+            this.Start.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Start.Name = "Start";
-            this.Start.Size = new System.Drawing.Size(504, 42);
+            this.Start.Size = new System.Drawing.Size(764, 34);
             this.Start.TabIndex = 0;
             this.Start.Text = "Start";
             this.Start.UseVisualStyleBackColor = false;
             this.Start.Click += new System.EventHandler(this.Start_Click);
             // 
-            // Exit
-            // 
-            this.Exit.BackColor = System.Drawing.Color.Red;
-            this.Exit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.Exit.Location = new System.Drawing.Point(533, 480);
-            this.Exit.Name = "Exit";
-            this.Exit.Size = new System.Drawing.Size(501, 42);
-            this.Exit.TabIndex = 1;
-            this.Exit.Text = "Exit";
-            this.Exit.UseVisualStyleBackColor = false;
-            this.Exit.Click += new System.EventHandler(this.Exit_Click);
-            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
-            this.ClientSize = new System.Drawing.Size(1046, 534);
-            this.Controls.Add(this.Exit);
+            this.ClientSize = new System.Drawing.Size(784, 434);
             this.Controls.Add(this.Start);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "HappyNewYear";
             this.ResumeLayout(false);
@@ -74,7 +62,6 @@
         #endregion
 
         private System.Windows.Forms.Button Start;
-        private System.Windows.Forms.Button Exit;
     }
 }
 
